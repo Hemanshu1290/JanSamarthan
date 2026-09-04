@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CSR-NGO Match | NGO Portal</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar">
+    <div class="nav-container">
+      <div class="logo">
+        <span class="logo-icon">🤝</span>
+        <span class="logo-text">CSR<span class="accent">Match</span></span>
+      </div>
+      <div class="nav-links">
+        <a href="index.html">🏠 Home</a>
+        <a href="#profile">My Profile</a>
+        <a href="#photos">Upload Photos</a>
+        <a href="#stories">Experience Stories</a>
+        <a href="#requirements">Open Requirements</a>
+        <a href="organization.html" class="nav-pill">Organization Portal →</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <header class="hero">
+    <div class="hero-content">
+      <span class="hero-badge">NGO Portal</span>
+      <h1>Show your work.<br>Build your <span class="highlight">trust score</span>.</h1>
+      <p class="hero-sub">Register your NGO, document your on-ground work with geotagged photos, share your past funding experience, and discover open requirements posted by corporates and government bodies.</p>
+    </div>
+  </header>
+
+  <!-- ACTIVE NGO SELECTOR -->
+  <section class="section" style="padding-bottom:0">
+    <div class="card active-ngo-bar">
+      <div>
+        <label style="font-weight:600; font-size:0.85rem; display:block; margin-bottom:6px;">Acting as NGO</label>
+        <select id="activeNgoSelect"></select>
+      </div>
+      <div id="activeNgoBadge"></div>
+    </div>
+  </section>
+
+  <!-- REGISTER -->
+  <section id="register" class="section">
+    <div class="section-header">
+      <h2>Register Your NGO</h2>
+      <p>Create your organization's profile so corporates and government bodies can discover and verify you.</p>
+    </div>
+
+    <form id="registerForm" class="card form-card">
+      <div class="form-grid">
+        <div class="form-group">
+          <label>NGO Name *</label>
+          <input type="text" id="regName" required placeholder="e.g. Hope Foundation" />
+        </div>
+        <div class="form-group">
+          <label>Focus Areas * (comma separated)</label>
+          <input type="text" id="regCategory" required placeholder="Education, Skill Development" />
+        </div>
+        <div class="form-group">
+          <label>State</label>
+          <input type="text" id="regState" placeholder="e.g. Tamil Nadu" />
+        </div>
+        <div class="form-group">
+          <label>City</label>
+          <input type="text" id="regCity" placeholder="e.g. Chennai" />
+        </div>
+        <div class="form-group">
+          <label>Years of Operation</label>
+          <input type="number" id="regYears" placeholder="e.g. 5" />
+        </div>
+        <div class="form-group">
+          <label>Typical Project Budget Range (₹)</label>
+          <div class="range-inputs">
+            <input type="number" id="regBudgetMin" placeholder="Min" />
+            <input type="number" id="regBudgetMax" placeholder="Max" />
+          </div>
+        </div>
+      </div>
+
+      <div class="checkbox-row">
+        <label><input type="checkbox" id="reg12A" /> 12A Registered</label>
+        <label><input type="checkbox" id="reg80G" /> 80G Registered</label>
+        <label><input type="checkbox" id="regFCRA" /> FCRA Registered</label>
+        <label><input type="checkbox" id="regAudited" /> Has Audited Financial Reports</label>
+      </div>
+
+      <button type="submit" class="btn btn-primary btn-full">Register NGO</button>
+    </form>
+    <div id="registerFeedback"></div>
+  </section>
+
+  <!-- MY PROFILE -->
+  <section id="profile" class="section section-alt">
+    <div class="section-header">
+      <h2>My Profile</h2>
+      <p>Your live trust score, calculated from what you've documented below.</p>
+    </div>
+    <div id="profileCard"></div>
+  </section>
+
+  <!-- UPLOAD PHOTOS -->
+  <section id="photos" class="section">
+    <div class="section-header">
+      <h2>Upload a Geotagged Photo</h2>
+      <p>Show corporates and government bodies proof of your on-ground work.</p>
+    </div>
+
+    <form id="photoForm" class="card form-card">
+      <div class="form-grid">
+        <div class="form-group">
+          <label>Photo *</label>
+          <input type="file" id="photoFile" accept="image/*" required />
+        </div>
+        <div class="form-group">
+          <label>Caption</label>
+          <input type="text" id="photoCaption" placeholder="e.g. Distributing school kits, Madurai" />
+        </div>
+        <div class="form-group">
+          <label>Latitude *</label>
+          <input type="number" step="any" id="photoLat" required placeholder="e.g. 9.9252" />
+        </div>
+        <div class="form-group">
+          <label>Longitude *</label>
+          <input type="number" step="any" id="photoLng" required placeholder="e.g. 78.1198" />
+        </div>
+      </div>
+      <button type="button" id="useLocationBtn" class="btn btn-ghost-dark" style="margin-bottom:16px;">📍 Use My Current Location</button>
+      <button type="submit" class="btn btn-primary btn-full">Upload Photo</button>
+    </form>
+    <div id="photoFeedback"></div>
+  </section>
+
+  <!-- STORIES -->
+  <section id="stories" class="section section-alt">
+    <div class="section-header">
+      <h2>Add a Past Experience Story</h2>
+      <p>Tell corporates and government bodies about funding you've received and what it achieved.</p>
+    </div>
+
+    <form id="storyForm" class="card form-card">
+      <div class="form-grid">
+        <div class="form-group">
+          <label>Title *</label>
+          <input type="text" id="storyTitle" required placeholder="e.g. Mid-day Meal Program with TechCorp" />
+        </div>
+        <div class="form-group">
+          <label>Related Focus Area</label>
+          <select id="storyCategory">
+            <option value="">Select category</option>
+            <option>Education</option>
+            <option>Healthcare</option>
+            <option>Environment</option>
+            <option>Women Empowerment</option>
+            <option>Child Welfare</option>
+            <option>Skill Development</option>
+            <option>Disaster Relief</option>
+            <option>Elderly Care</option>
+            <option>Animal Welfare</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Year</label>
+          <input type="number" id="storyYear" placeholder="e.g. 2024" />
+        </div>
+      </div>
+      <div class="form-group full-width">
+        <label>Your Story *</label>
+        <textarea id="storyText" rows="4" required placeholder="Describe the funding you received, what you did with it, and the outcome/impact."></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary btn-full">Add Story</button>
+    </form>
+    <div id="storyFeedback"></div>
+  </section>
+
+  <!-- SEARCH REQUIREMENTS -->
+  <section id="requirements" class="section">
+    <div class="section-header">
+      <h2>Open Requirements</h2>
+      <p>Live CSR requirements posted by corporates and government bodies. Filter to your sector.</p>
+    </div>
+
+    <div class="card form-card" style="margin-bottom:8px;">
+      <div class="form-grid">
+        <div class="form-group">
+          <label>Filter by Focus Area</label>
+          <select id="filterCategory">
+            <option value="">All categories</option>
+            <option>Education</option>
+            <option>Healthcare</option>
+            <option>Environment</option>
+            <option>Women Empowerment</option>
+            <option>Child Welfare</option>
+            <option>Skill Development</option>
+            <option>Disaster Relief</option>
+            <option>Elderly Care</option>
+            <option>Animal Welfare</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Filter by Poster</label>
+          <select id="filterPostedBy">
+            <option value="">Corporate & Government</option>
+            <option value="Corporate">Corporate only</option>
+            <option value="Government">Government only</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div id="requirementsGrid" class="results-grid"></div>
+  </section>
+
+  <footer class="footer">
+    <p>CSRMatch — Connecting Corporates & Government to Verified NGOs.</p>
+  </footer>
+
+  <script src="js/ngo-portal.js"></script>
+</body>
+</html>

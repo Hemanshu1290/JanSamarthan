@@ -1,0 +1,2413 @@
+[
+  {
+    "geotaggedPhotos": [],
+    "experienceStories": [],
+    "id": "ngo001",
+    "name": "Vidya Foundation",
+    "category": [
+      "Education",
+      "Skill Development"
+    ],
+    "location": {
+      "state": "Tamil Nadu",
+      "city": "Chennai"
+    },
+    "yearsOfOperation": 14,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "TN/EDU/1042"
+    },
+    "projectBudgetRange": {
+      "min": 500000,
+      "max": 5000000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2025
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Digital Classrooms Initiative",
+        "category": "Education",
+        "budget": 1200000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 15000,
+        "corporatePartner": "TechCorp Ltd",
+        "corporateRating": 5
+      },
+      {
+        "name": "Girls STEM Scholarship",
+        "category": "Education",
+        "budget": 800000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 3000,
+        "corporatePartner": "FinBank",
+        "corporateRating": 5
+      },
+      {
+        "name": "Vocational Training Hub",
+        "category": "Skill Development",
+        "budget": 950000,
+        "year": 2022,
+        "completionStatus": "completed",
+        "beneficiariesReached": 4200,
+        "corporatePartner": "AutoWorks Inc",
+        "corporateRating": 4
+      }
+    ]
+  },
+  {
+    "geotaggedPhotos": [],
+    "experienceStories": [],
+    "id": "ngo002",
+    "name": "CareWell Health Trust",
+    "category": [
+      "Healthcare"
+    ],
+    "location": {
+      "state": "Maharashtra",
+      "city": "Mumbai"
+    },
+    "yearsOfOperation": 20,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "MH/HLT/0221"
+    },
+    "projectBudgetRange": {
+      "min": 1000000,
+      "max": 10000000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2026
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Rural Mobile Clinics",
+        "category": "Healthcare",
+        "budget": 3000000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 42000,
+        "corporatePartner": "PharmaPlus",
+        "corporateRating": 5
+      },
+      {
+        "name": "Maternal Health Program",
+        "category": "Healthcare",
+        "budget": 2200000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 18000,
+        "corporatePartner": "Unity Insurance",
+        "corporateRating": 5
+      },
+      {
+        "name": "TB Awareness Drive",
+        "category": "Healthcare",
+        "budget": 900000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 25000,
+        "corporatePartner": "MedLife Corp",
+        "corporateRating": 4
+      }
+    ]
+  },
+  {
+    "geotaggedPhotos": [],
+    "experienceStories": [],
+    "id": "ngo003",
+    "name": "Green Roots Collective",
+    "category": [
+      "Environment"
+    ],
+    "location": {
+      "state": "Karnataka",
+      "city": "Bengaluru"
+    },
+    "yearsOfOperation": 6,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "KA/ENV/3391"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 2000000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2024
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Urban Afforestation Drive",
+        "category": "Environment",
+        "budget": 600000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 8000,
+        "corporatePartner": "GreenTech Ltd",
+        "corporateRating": 4
+      },
+      {
+        "name": "Lake Rejuvenation Project",
+        "category": "Environment",
+        "budget": 1100000,
+        "year": 2023,
+        "completionStatus": "ongoing",
+        "beneficiariesReached": 12000,
+        "corporatePartner": "CivicBuild",
+        "corporateRating": 4
+      }
+    ]
+  },
+  {
+    "geotaggedPhotos": [],
+    "experienceStories": [],
+    "id": "ngo004",
+    "name": "Nari Shakti Sangathan",
+    "category": [
+      "Women Empowerment",
+      "Skill Development"
+    ],
+    "location": {
+      "state": "Rajasthan",
+      "city": "Jaipur"
+    },
+    "yearsOfOperation": 9,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": false,
+      "isFCRA": false,
+      "registrationNumber": "RJ/WOM/1187"
+    },
+    "projectBudgetRange": {
+      "min": 300000,
+      "max": 1500000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2023
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Women Handicraft Cooperative",
+        "category": "Women Empowerment",
+        "budget": 500000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 2200,
+        "corporatePartner": "TextileHouse",
+        "corporateRating": 4
+      },
+      {
+        "name": "Microfinance Literacy Camp",
+        "category": "Skill Development",
+        "budget": 400000,
+        "year": 2022,
+        "completionStatus": "completed",
+        "beneficiariesReached": 1800,
+        "corporatePartner": "Regional Bank",
+        "corporateRating": 3
+      }
+    ]
+  },
+  {
+    "geotaggedPhotos": [],
+    "experienceStories": [],
+    "id": "ngo005",
+    "name": "Chhaya Child Welfare Society",
+    "category": [
+      "Child Welfare",
+      "Education"
+    ],
+    "location": {
+      "state": "Delhi",
+      "city": "New Delhi"
+    },
+    "yearsOfOperation": 11,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "DL/CHW/0876"
+    },
+    "projectBudgetRange": {
+      "min": 400000,
+      "max": 3000000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2025
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Street Children Rehabilitation",
+        "category": "Child Welfare",
+        "budget": 1000000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 3200,
+        "corporatePartner": "Skyline Group",
+        "corporateRating": 5
+      },
+      {
+        "name": "After-School Learning Centers",
+        "category": "Education",
+        "budget": 750000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 5000,
+        "corporatePartner": "Skyline Group",
+        "corporateRating": 4
+      }
+    ]
+  },
+  {
+    "geotaggedPhotos": [],
+    "experienceStories": [],
+    "id": "ngo006",
+    "name": "Sahara Disaster Response Network",
+    "category": [
+      "Disaster Relief"
+    ],
+    "location": {
+      "state": "Odisha",
+      "city": "Bhubaneswar"
+    },
+    "yearsOfOperation": 5,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": false,
+      "isFCRA": false,
+      "registrationNumber": "OD/DIS/2290"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 4000000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Cyclone Fani Relief Camp",
+        "category": "Disaster Relief",
+        "budget": 2000000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 20000,
+        "corporatePartner": "RelianceAid",
+        "corporateRating": 3
+      },
+      {
+        "name": "Flood Emergency Kits Distribution",
+        "category": "Disaster Relief",
+        "budget": 500000,
+        "year": 2022,
+        "completionStatus": "failed",
+        "beneficiariesReached": 500,
+        "corporatePartner": "LocalCorp",
+        "corporateRating": 2
+      }
+    ]
+  },
+  {
+    "geotaggedPhotos": [],
+    "experienceStories": [],
+    "id": "ngo007",
+    "name": "Paws & Care Animal Trust",
+    "category": [
+      "Animal Welfare"
+    ],
+    "location": {
+      "state": "West Bengal",
+      "city": "Kolkata"
+    },
+    "yearsOfOperation": 3,
+    "registrationDetails": {
+      "is12A": false,
+      "is80G": false,
+      "isFCRA": false,
+      "registrationNumber": "WB/ANM/4410"
+    },
+    "projectBudgetRange": {
+      "min": 100000,
+      "max": 800000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Stray Animal Sterilization Drive",
+        "category": "Animal Welfare",
+        "budget": 250000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 900,
+        "corporatePartner": "PetCo",
+        "corporateRating": 3
+      }
+    ]
+  },
+  {
+    "geotaggedPhotos": [],
+    "experienceStories": [],
+    "id": "ngo008",
+    "name": "Sunrise Elders Care Foundation",
+    "category": [
+      "Elderly Care"
+    ],
+    "location": {
+      "state": "Kerala",
+      "city": "Kochi"
+    },
+    "yearsOfOperation": 8,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "KL/ELD/0654"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 1200000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2024
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Old Age Home Renovation",
+        "category": "Elderly Care",
+        "budget": 600000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 400,
+        "corporatePartner": "Coastal Bank",
+        "corporateRating": 4
+      },
+      {
+        "name": "Elderly Health Checkup Camps",
+        "category": "Elderly Care",
+        "budget": 300000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 2100,
+        "corporatePartner": "Coastal Bank",
+        "corporateRating": 5
+      }
+    ]
+  },
+  {
+    "id": "ngo101",
+    "name": "Akshara Trust",
+    "category": [
+      "Education"
+    ],
+    "location": {
+      "state": "Tamil Nadu",
+      "city": "Chennai"
+    },
+    "yearsOfOperation": 14,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "TA/EDU/9009"
+    },
+    "projectBudgetRange": {
+      "min": 400000,
+      "max": 4100000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2026
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Education Program Phase 1",
+        "category": "Education",
+        "budget": 3000000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 5391,
+        "corporatePartner": "TextileHouse",
+        "corporateRating": 3
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo102",
+    "name": "Vidyalaya Empowerment Mission",
+    "category": [
+      "Education"
+    ],
+    "location": {
+      "state": "Tamil Nadu",
+      "city": "Coimbatore"
+    },
+    "yearsOfOperation": 21,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": false,
+      "isFCRA": false,
+      "registrationNumber": "TA/EDU/3592"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 2400000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2026
+    },
+    "documents": {
+      "annualReportUrl": "",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Education Program Phase 1",
+        "category": "Education",
+        "budget": 3000000,
+        "year": 2021,
+        "completionStatus": "completed",
+        "beneficiariesReached": 6395,
+        "corporatePartner": "TechCorp Ltd",
+        "corporateRating": 2
+      },
+      {
+        "name": "Education Program Phase 2",
+        "category": "Education",
+        "budget": 1200000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 13399,
+        "corporatePartner": "GreenTech Ltd",
+        "corporateRating": 3
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo103",
+    "name": "Gyanodaya Foundation",
+    "category": [
+      "Education"
+    ],
+    "location": {
+      "state": "Tamil Nadu",
+      "city": "Madurai"
+    },
+    "yearsOfOperation": 2,
+    "registrationDetails": {
+      "is12A": false,
+      "is80G": false,
+      "isFCRA": true,
+      "registrationNumber": "TA/EDU/1791"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 3200000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Education Program Phase 1",
+        "category": "Education",
+        "budget": 1600000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 690,
+        "corporatePartner": "GreenTech Ltd",
+        "corporateRating": 4
+      },
+      {
+        "name": "Education Program Phase 2",
+        "category": "Education",
+        "budget": 1400000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 21584,
+        "corporatePartner": "FinBank",
+        "corporateRating": 2
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo104",
+    "name": "Roshni Learning Circle",
+    "category": [
+      "Education"
+    ],
+    "location": {
+      "state": "Maharashtra",
+      "city": "Mumbai"
+    },
+    "yearsOfOperation": 14,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "MA/EDU/8233"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 2000000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Education Program Phase 1",
+        "category": "Education",
+        "budget": 2300000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 22127,
+        "corporatePartner": "AutoWorks Inc",
+        "corporateRating": 3
+      },
+      {
+        "name": "Education Program Phase 2",
+        "category": "Education",
+        "budget": 2500000,
+        "year": 2021,
+        "completionStatus": "completed",
+        "beneficiariesReached": 8949,
+        "corporatePartner": "PetCo",
+        "corporateRating": 2
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo105",
+    "name": "Arogya Sahayog Trust",
+    "category": [
+      "Healthcare"
+    ],
+    "location": {
+      "state": "Maharashtra",
+      "city": "Pune"
+    },
+    "yearsOfOperation": 15,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "MA/HEA/8954"
+    },
+    "projectBudgetRange": {
+      "min": 400000,
+      "max": 1800000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Healthcare Program Phase 1",
+        "category": "Healthcare",
+        "budget": 2200000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 13049,
+        "corporatePartner": "Coastal Bank",
+        "corporateRating": 4
+      },
+      {
+        "name": "Healthcare Program Phase 2",
+        "category": "Healthcare",
+        "budget": 2200000,
+        "year": 2022,
+        "completionStatus": "ongoing",
+        "beneficiariesReached": 16908,
+        "corporatePartner": "Regional Bank",
+        "corporateRating": 5
+      },
+      {
+        "name": "Healthcare Program Phase 3",
+        "category": "Healthcare",
+        "budget": 500000,
+        "year": 2021,
+        "completionStatus": "ongoing",
+        "beneficiariesReached": 19553,
+        "corporatePartner": "Coastal Bank",
+        "corporateRating": 2
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo106",
+    "name": "Jeevan Rekha Health Mission",
+    "category": [
+      "Healthcare"
+    ],
+    "location": {
+      "state": "Maharashtra",
+      "city": "Nagpur"
+    },
+    "yearsOfOperation": 15,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "MA/HEA/3522"
+    },
+    "projectBudgetRange": {
+      "min": 300000,
+      "max": 1700000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2026
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Healthcare Program Phase 1",
+        "category": "Healthcare",
+        "budget": 400000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 7856,
+        "corporatePartner": "PharmaPlus",
+        "corporateRating": 3
+      },
+      {
+        "name": "Healthcare Program Phase 2",
+        "category": "Healthcare",
+        "budget": 2600000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 3448,
+        "corporatePartner": "Zenith Retail",
+        "corporateRating": 2
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo107",
+    "name": "SwasthBharat Foundation",
+    "category": [
+      "Healthcare"
+    ],
+    "location": {
+      "state": "Karnataka",
+      "city": "Bengaluru"
+    },
+    "yearsOfOperation": 5,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": false,
+      "isFCRA": true,
+      "registrationNumber": "KA/HEA/5256"
+    },
+    "projectBudgetRange": {
+      "min": 500000,
+      "max": 4100000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2023
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Healthcare Program Phase 1",
+        "category": "Healthcare",
+        "budget": 700000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 12797,
+        "corporatePartner": "AutoWorks Inc",
+        "corporateRating": 5
+      },
+      {
+        "name": "Healthcare Program Phase 2",
+        "category": "Healthcare",
+        "budget": 400000,
+        "year": 2022,
+        "completionStatus": "completed",
+        "beneficiariesReached": 16306,
+        "corporatePartner": "TechCorp Ltd",
+        "corporateRating": 3
+      },
+      {
+        "name": "Healthcare Program Phase 3",
+        "category": "Healthcare",
+        "budget": 700000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 13979,
+        "corporatePartner": "PetCo",
+        "corporateRating": 4
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo108",
+    "name": "MedCare Outreach Society",
+    "category": [
+      "Healthcare"
+    ],
+    "location": {
+      "state": "Karnataka",
+      "city": "Mysuru"
+    },
+    "yearsOfOperation": 2,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "KA/HEA/6240"
+    },
+    "projectBudgetRange": {
+      "min": 100000,
+      "max": 3100000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2023
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Healthcare Program Phase 1",
+        "category": "Healthcare",
+        "budget": 200000,
+        "year": 2021,
+        "completionStatus": "completed",
+        "beneficiariesReached": 20752,
+        "corporatePartner": "Unity Insurance",
+        "corporateRating": 5
+      },
+      {
+        "name": "Healthcare Program Phase 2",
+        "category": "Healthcare",
+        "budget": 2400000,
+        "year": 2022,
+        "completionStatus": "completed",
+        "beneficiariesReached": 3180,
+        "corporatePartner": "Unity Insurance",
+        "corporateRating": 5
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo109",
+    "name": "EcoSamrakshan Trust",
+    "category": [
+      "Environment"
+    ],
+    "location": {
+      "state": "Delhi",
+      "city": "New Delhi"
+    },
+    "yearsOfOperation": 4,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "DE/ENV/5552"
+    },
+    "projectBudgetRange": {
+      "min": 400000,
+      "max": 4300000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Environment Program Phase 1",
+        "category": "Environment",
+        "budget": 2200000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 10310,
+        "corporatePartner": "TextileHouse",
+        "corporateRating": 2
+      },
+      {
+        "name": "Environment Program Phase 2",
+        "category": "Environment",
+        "budget": 2200000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 5837,
+        "corporatePartner": "GreenTech Ltd",
+        "corporateRating": 2
+      },
+      {
+        "name": "Environment Program Phase 3",
+        "category": "Environment",
+        "budget": 2700000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 18574,
+        "corporatePartner": "FinBank",
+        "corporateRating": 3
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo110",
+    "name": "Prithvi Green Mission",
+    "category": [
+      "Environment"
+    ],
+    "location": {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow"
+    },
+    "yearsOfOperation": 16,
+    "registrationDetails": {
+      "is12A": false,
+      "is80G": false,
+      "isFCRA": true,
+      "registrationNumber": "UT/ENV/5204"
+    },
+    "projectBudgetRange": {
+      "min": 400000,
+      "max": 4200000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Environment Program Phase 1",
+        "category": "Environment",
+        "budget": 2500000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 2218,
+        "corporatePartner": "TechCorp Ltd",
+        "corporateRating": 3
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo111",
+    "name": "Van Rakshak Foundation",
+    "category": [
+      "Environment"
+    ],
+    "location": {
+      "state": "Uttar Pradesh",
+      "city": "Varanasi"
+    },
+    "yearsOfOperation": 19,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "UT/ENV/1126"
+    },
+    "projectBudgetRange": {
+      "min": 300000,
+      "max": 1800000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Environment Program Phase 1",
+        "category": "Environment",
+        "budget": 2700000,
+        "year": 2025,
+        "completionStatus": "failed",
+        "beneficiariesReached": 2845,
+        "corporatePartner": "RelianceAid",
+        "corporateRating": 2
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo112",
+    "name": "Clean Rivers Collective",
+    "category": [
+      "Environment"
+    ],
+    "location": {
+      "state": "Gujarat",
+      "city": "Ahmedabad"
+    },
+    "yearsOfOperation": 18,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "GU/ENV/2266"
+    },
+    "projectBudgetRange": {
+      "min": 100000,
+      "max": 3100000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2023
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Environment Program Phase 1",
+        "category": "Environment",
+        "budget": 2600000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 9055,
+        "corporatePartner": "Zenith Retail",
+        "corporateRating": 5
+      },
+      {
+        "name": "Environment Program Phase 2",
+        "category": "Environment",
+        "budget": 2300000,
+        "year": 2021,
+        "completionStatus": "completed",
+        "beneficiariesReached": 8769,
+        "corporatePartner": "TextileHouse",
+        "corporateRating": 5
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo113",
+    "name": "Sakhi Udyog Foundation",
+    "category": [
+      "Women Empowerment"
+    ],
+    "location": {
+      "state": "Gujarat",
+      "city": "Surat"
+    },
+    "yearsOfOperation": 2,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "GU/WOM/8233"
+    },
+    "projectBudgetRange": {
+      "min": 300000,
+      "max": 4000000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2025
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Women Empowerment Program Phase 1",
+        "category": "Women Empowerment",
+        "budget": 1200000,
+        "year": 2024,
+        "completionStatus": "ongoing",
+        "beneficiariesReached": 1658,
+        "corporatePartner": "Skyline Group",
+        "corporateRating": 3
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo114",
+    "name": "Mahila Utkarsh Sangathan",
+    "category": [
+      "Women Empowerment"
+    ],
+    "location": {
+      "state": "West Bengal",
+      "city": "Kolkata"
+    },
+    "yearsOfOperation": 8,
+    "registrationDetails": {
+      "is12A": false,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "WE/WOM/2438"
+    },
+    "projectBudgetRange": {
+      "min": 500000,
+      "max": 4100000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Women Empowerment Program Phase 1",
+        "category": "Women Empowerment",
+        "budget": 2100000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 7811,
+        "corporatePartner": "FinBank",
+        "corporateRating": 5
+      },
+      {
+        "name": "Women Empowerment Program Phase 2",
+        "category": "Women Empowerment",
+        "budget": 1200000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 9080,
+        "corporatePartner": "PharmaPlus",
+        "corporateRating": 5
+      },
+      {
+        "name": "Women Empowerment Program Phase 3",
+        "category": "Women Empowerment",
+        "budget": 1500000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 23441,
+        "corporatePartner": "TextileHouse",
+        "corporateRating": 5
+      },
+      {
+        "name": "Women Empowerment Program Phase 4",
+        "category": "Women Empowerment",
+        "budget": 1100000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 23101,
+        "corporatePartner": "FinBank",
+        "corporateRating": 2
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo115",
+    "name": "Bandhan Women's Circle",
+    "category": [
+      "Women Empowerment"
+    ],
+    "location": {
+      "state": "Telangana",
+      "city": "Hyderabad"
+    },
+    "yearsOfOperation": 20,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "TE/WOM/3145"
+    },
+    "projectBudgetRange": {
+      "min": 300000,
+      "max": 2600000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2026
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Women Empowerment Program Phase 1",
+        "category": "Women Empowerment",
+        "budget": 1900000,
+        "year": 2021,
+        "completionStatus": "completed",
+        "beneficiariesReached": 13180,
+        "corporatePartner": "Coastal Bank",
+        "corporateRating": 3
+      },
+      {
+        "name": "Women Empowerment Program Phase 2",
+        "category": "Women Empowerment",
+        "budget": 2600000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 7944,
+        "corporatePartner": "PharmaPlus",
+        "corporateRating": 5
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo116",
+    "name": "Swavalambi Trust",
+    "category": [
+      "Women Empowerment"
+    ],
+    "location": {
+      "state": "Kerala",
+      "city": "Kochi"
+    },
+    "yearsOfOperation": 20,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "KE/WOM/1108"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 1900000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Women Empowerment Program Phase 1",
+        "category": "Women Empowerment",
+        "budget": 2500000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 18325,
+        "corporatePartner": "Regional Bank",
+        "corporateRating": 3
+      },
+      {
+        "name": "Women Empowerment Program Phase 2",
+        "category": "Women Empowerment",
+        "budget": 1400000,
+        "year": 2022,
+        "completionStatus": "completed",
+        "beneficiariesReached": 9406,
+        "corporatePartner": "TextileHouse",
+        "corporateRating": 2
+      },
+      {
+        "name": "Women Empowerment Program Phase 3",
+        "category": "Women Empowerment",
+        "budget": 2900000,
+        "year": 2021,
+        "completionStatus": "failed",
+        "beneficiariesReached": 24385,
+        "corporatePartner": "Orion Logistics",
+        "corporateRating": 5
+      },
+      {
+        "name": "Women Empowerment Program Phase 4",
+        "category": "Women Empowerment",
+        "budget": 200000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 11509,
+        "corporatePartner": "Regional Bank",
+        "corporateRating": 3
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo117",
+    "name": "Bal Vikas Sansthan",
+    "category": [
+      "Child Welfare"
+    ],
+    "location": {
+      "state": "Kerala",
+      "city": "Thiruvananthapuram"
+    },
+    "yearsOfOperation": 13,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "KE/CHI/6491"
+    },
+    "projectBudgetRange": {
+      "min": 100000,
+      "max": 3500000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Child Welfare Program Phase 1",
+        "category": "Child Welfare",
+        "budget": 2800000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 12720,
+        "corporatePartner": "Orion Logistics",
+        "corporateRating": 4
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo118",
+    "name": "Umeed Child Foundation",
+    "category": [
+      "Child Welfare"
+    ],
+    "location": {
+      "state": "Rajasthan",
+      "city": "Jaipur"
+    },
+    "yearsOfOperation": 17,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": false,
+      "isFCRA": false,
+      "registrationNumber": "RA/CHI/9340"
+    },
+    "projectBudgetRange": {
+      "min": 500000,
+      "max": 3900000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2026
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Child Welfare Program Phase 1",
+        "category": "Child Welfare",
+        "budget": 1100000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 5581,
+        "corporatePartner": "PetCo",
+        "corporateRating": 4
+      },
+      {
+        "name": "Child Welfare Program Phase 2",
+        "category": "Child Welfare",
+        "budget": 1100000,
+        "year": 2026,
+        "completionStatus": "ongoing",
+        "beneficiariesReached": 12319,
+        "corporatePartner": "TextileHouse",
+        "corporateRating": 5
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo119",
+    "name": "Nanhe Kadam Trust",
+    "category": [
+      "Child Welfare"
+    ],
+    "location": {
+      "state": "Rajasthan",
+      "city": "Udaipur"
+    },
+    "yearsOfOperation": 14,
+    "registrationDetails": {
+      "is12A": false,
+      "is80G": false,
+      "isFCRA": true,
+      "registrationNumber": "RA/CHI/1874"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 900000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2023
+    },
+    "documents": {
+      "annualReportUrl": "",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Child Welfare Program Phase 1",
+        "category": "Child Welfare",
+        "budget": 1600000,
+        "year": 2021,
+        "completionStatus": "completed",
+        "beneficiariesReached": 7942,
+        "corporatePartner": "FinBank",
+        "corporateRating": 4
+      },
+      {
+        "name": "Child Welfare Program Phase 2",
+        "category": "Child Welfare",
+        "budget": 1100000,
+        "year": 2022,
+        "completionStatus": "ongoing",
+        "beneficiariesReached": 12953,
+        "corporatePartner": "Orion Logistics",
+        "corporateRating": 4
+      },
+      {
+        "name": "Child Welfare Program Phase 3",
+        "category": "Child Welfare",
+        "budget": 2700000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 21385,
+        "corporatePartner": "Zenith Retail",
+        "corporateRating": 3
+      },
+      {
+        "name": "Child Welfare Program Phase 4",
+        "category": "Child Welfare",
+        "budget": 1600000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 11144,
+        "corporatePartner": "TextileHouse",
+        "corporateRating": 5
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo120",
+    "name": "Chirag Balseva Mission",
+    "category": [
+      "Child Welfare"
+    ],
+    "location": {
+      "state": "Punjab",
+      "city": "Amritsar"
+    },
+    "yearsOfOperation": 15,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "PU/CHI/4617"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 2700000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Child Welfare Program Phase 1",
+        "category": "Child Welfare",
+        "budget": 2400000,
+        "year": 2022,
+        "completionStatus": "ongoing",
+        "beneficiariesReached": 16060,
+        "corporatePartner": "Zenith Retail",
+        "corporateRating": 2
+      },
+      {
+        "name": "Child Welfare Program Phase 2",
+        "category": "Child Welfare",
+        "budget": 300000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 22848,
+        "corporatePartner": "Zenith Retail",
+        "corporateRating": 2
+      },
+      {
+        "name": "Child Welfare Program Phase 3",
+        "category": "Child Welfare",
+        "budget": 300000,
+        "year": 2021,
+        "completionStatus": "completed",
+        "beneficiariesReached": 18290,
+        "corporatePartner": "AutoWorks Inc",
+        "corporateRating": 3
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo121",
+    "name": "Kaushal Vikas Foundation",
+    "category": [
+      "Skill Development"
+    ],
+    "location": {
+      "state": "Odisha",
+      "city": "Bhubaneswar"
+    },
+    "yearsOfOperation": 10,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "OD/SKI/4000"
+    },
+    "projectBudgetRange": {
+      "min": 100000,
+      "max": 1500000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2023
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Skill Development Program Phase 1",
+        "category": "Skill Development",
+        "budget": 900000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 17064,
+        "corporatePartner": "RelianceAid",
+        "corporateRating": 2
+      },
+      {
+        "name": "Skill Development Program Phase 2",
+        "category": "Skill Development",
+        "budget": 2800000,
+        "year": 2025,
+        "completionStatus": "ongoing",
+        "beneficiariesReached": 10643,
+        "corporatePartner": "Coastal Bank",
+        "corporateRating": 3
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo122",
+    "name": "Hunar Se Rozgar Trust",
+    "category": [
+      "Skill Development"
+    ],
+    "location": {
+      "state": "Bihar",
+      "city": "Patna"
+    },
+    "yearsOfOperation": 17,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": false,
+      "isFCRA": false,
+      "registrationNumber": "BI/SKI/9282"
+    },
+    "projectBudgetRange": {
+      "min": 300000,
+      "max": 2800000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Skill Development Program Phase 1",
+        "category": "Skill Development",
+        "budget": 300000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 8484,
+        "corporatePartner": "RelianceAid",
+        "corporateRating": 5
+      },
+      {
+        "name": "Skill Development Program Phase 2",
+        "category": "Skill Development",
+        "budget": 500000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 20766,
+        "corporatePartner": "GreenTech Ltd",
+        "corporateRating": 3
+      },
+      {
+        "name": "Skill Development Program Phase 3",
+        "category": "Skill Development",
+        "budget": 1700000,
+        "year": 2022,
+        "completionStatus": "completed",
+        "beneficiariesReached": 17852,
+        "corporatePartner": "GreenTech Ltd",
+        "corporateRating": 2
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo123",
+    "name": "SkillBridge Society",
+    "category": [
+      "Skill Development"
+    ],
+    "location": {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal"
+    },
+    "yearsOfOperation": 10,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "MA/SKI/3122"
+    },
+    "projectBudgetRange": {
+      "min": 400000,
+      "max": 1000000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2023
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Skill Development Program Phase 1",
+        "category": "Skill Development",
+        "budget": 400000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 2564,
+        "corporatePartner": "FinBank",
+        "corporateRating": 4
+      },
+      {
+        "name": "Skill Development Program Phase 2",
+        "category": "Skill Development",
+        "budget": 2000000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 21964,
+        "corporatePartner": "Unity Insurance",
+        "corporateRating": 2
+      },
+      {
+        "name": "Skill Development Program Phase 3",
+        "category": "Skill Development",
+        "budget": 1400000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 3635,
+        "corporatePartner": "PharmaPlus",
+        "corporateRating": 5
+      },
+      {
+        "name": "Skill Development Program Phase 4",
+        "category": "Skill Development",
+        "budget": 600000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 12785,
+        "corporatePartner": "InfraCore",
+        "corporateRating": 5
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo124",
+    "name": "Pragati Career Mission",
+    "category": [
+      "Skill Development"
+    ],
+    "location": {
+      "state": "Assam",
+      "city": "Guwahati"
+    },
+    "yearsOfOperation": 6,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "AS/SKI/2894"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 4000000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2022
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Skill Development Program Phase 1",
+        "category": "Skill Development",
+        "budget": 700000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 7288,
+        "corporatePartner": "Skyline Group",
+        "corporateRating": 3
+      },
+      {
+        "name": "Skill Development Program Phase 2",
+        "category": "Skill Development",
+        "budget": 700000,
+        "year": 2024,
+        "completionStatus": "ongoing",
+        "beneficiariesReached": 19022,
+        "corporatePartner": "Coastal Bank",
+        "corporateRating": 4
+      },
+      {
+        "name": "Skill Development Program Phase 3",
+        "category": "Skill Development",
+        "budget": 400000,
+        "year": 2022,
+        "completionStatus": "completed",
+        "beneficiariesReached": 7796,
+        "corporatePartner": "Unity Insurance",
+        "corporateRating": 4
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo125",
+    "name": "Rahat Aapda Prabandhan Trust",
+    "category": [
+      "Disaster Relief"
+    ],
+    "location": {
+      "state": "Tamil Nadu",
+      "city": "Chennai"
+    },
+    "yearsOfOperation": 22,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": false,
+      "isFCRA": true,
+      "registrationNumber": "TA/DIS/7644"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 2600000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2022
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Disaster Relief Program Phase 1",
+        "category": "Disaster Relief",
+        "budget": 1900000,
+        "year": 2021,
+        "completionStatus": "completed",
+        "beneficiariesReached": 15299,
+        "corporatePartner": "InfraCore",
+        "corporateRating": 3
+      },
+      {
+        "name": "Disaster Relief Program Phase 2",
+        "category": "Disaster Relief",
+        "budget": 900000,
+        "year": 2021,
+        "completionStatus": "completed",
+        "beneficiariesReached": 15513,
+        "corporatePartner": "FinBank",
+        "corporateRating": 2
+      },
+      {
+        "name": "Disaster Relief Program Phase 3",
+        "category": "Disaster Relief",
+        "budget": 2900000,
+        "year": 2024,
+        "completionStatus": "completed",
+        "beneficiariesReached": 17627,
+        "corporatePartner": "Coastal Bank",
+        "corporateRating": 4
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo126",
+    "name": "Suraksha Relief Network",
+    "category": [
+      "Disaster Relief"
+    ],
+    "location": {
+      "state": "Tamil Nadu",
+      "city": "Coimbatore"
+    },
+    "yearsOfOperation": 17,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "TA/DIS/2012"
+    },
+    "projectBudgetRange": {
+      "min": 100000,
+      "max": 1600000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Disaster Relief Program Phase 1",
+        "category": "Disaster Relief",
+        "budget": 1300000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 22392,
+        "corporatePartner": "InfraCore",
+        "corporateRating": 2
+      },
+      {
+        "name": "Disaster Relief Program Phase 2",
+        "category": "Disaster Relief",
+        "budget": 700000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 5948,
+        "corporatePartner": "Orion Logistics",
+        "corporateRating": 5
+      },
+      {
+        "name": "Disaster Relief Program Phase 3",
+        "category": "Disaster Relief",
+        "budget": 700000,
+        "year": 2025,
+        "completionStatus": "ongoing",
+        "beneficiariesReached": 24345,
+        "corporatePartner": "GreenTech Ltd",
+        "corporateRating": 5
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo127",
+    "name": "Sahyog Emergency Response",
+    "category": [
+      "Disaster Relief"
+    ],
+    "location": {
+      "state": "Tamil Nadu",
+      "city": "Madurai"
+    },
+    "yearsOfOperation": 5,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "TA/DIS/3968"
+    },
+    "projectBudgetRange": {
+      "min": 400000,
+      "max": 1700000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2025
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Disaster Relief Program Phase 1",
+        "category": "Disaster Relief",
+        "budget": 2500000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 13177,
+        "corporatePartner": "FinBank",
+        "corporateRating": 5
+      },
+      {
+        "name": "Disaster Relief Program Phase 2",
+        "category": "Disaster Relief",
+        "budget": 300000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 18439,
+        "corporatePartner": "InfraCore",
+        "corporateRating": 5
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo128",
+    "name": "Punarnirman Foundation",
+    "category": [
+      "Disaster Relief"
+    ],
+    "location": {
+      "state": "Maharashtra",
+      "city": "Mumbai"
+    },
+    "yearsOfOperation": 19,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": true,
+      "registrationNumber": "MA/DIS/7515"
+    },
+    "projectBudgetRange": {
+      "min": 100000,
+      "max": 3100000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Disaster Relief Program Phase 1",
+        "category": "Disaster Relief",
+        "budget": 1200000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 15896,
+        "corporatePartner": "CivicBuild",
+        "corporateRating": 2
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo129",
+    "name": "Vayoshreshtha Seva Sansthan",
+    "category": [
+      "Elderly Care"
+    ],
+    "location": {
+      "state": "Maharashtra",
+      "city": "Pune"
+    },
+    "yearsOfOperation": 10,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "MA/ELD/7777"
+    },
+    "projectBudgetRange": {
+      "min": 300000,
+      "max": 3700000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2024
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Elderly Care Program Phase 1",
+        "category": "Elderly Care",
+        "budget": 1300000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 2884,
+        "corporatePartner": "AutoWorks Inc",
+        "corporateRating": 4
+      },
+      {
+        "name": "Elderly Care Program Phase 2",
+        "category": "Elderly Care",
+        "budget": 2300000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 13956,
+        "corporatePartner": "TechCorp Ltd",
+        "corporateRating": 4
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo130",
+    "name": "Shraddha Elders Foundation",
+    "category": [
+      "Elderly Care"
+    ],
+    "location": {
+      "state": "Maharashtra",
+      "city": "Nagpur"
+    },
+    "yearsOfOperation": 14,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": false,
+      "isFCRA": true,
+      "registrationNumber": "MA/ELD/7639"
+    },
+    "projectBudgetRange": {
+      "min": 300000,
+      "max": 3100000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2025
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Elderly Care Program Phase 1",
+        "category": "Elderly Care",
+        "budget": 1500000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 24977,
+        "corporatePartner": "PharmaPlus",
+        "corporateRating": 5
+      },
+      {
+        "name": "Elderly Care Program Phase 2",
+        "category": "Elderly Care",
+        "budget": 1200000,
+        "year": 2021,
+        "completionStatus": "completed",
+        "beneficiariesReached": 21866,
+        "corporatePartner": "GreenTech Ltd",
+        "corporateRating": 2
+      },
+      {
+        "name": "Elderly Care Program Phase 3",
+        "category": "Elderly Care",
+        "budget": 500000,
+        "year": 2023,
+        "completionStatus": "failed",
+        "beneficiariesReached": 4513,
+        "corporatePartner": "Coastal Bank",
+        "corporateRating": 5
+      },
+      {
+        "name": "Elderly Care Program Phase 4",
+        "category": "Elderly Care",
+        "budget": 1400000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 6460,
+        "corporatePartner": "Unity Insurance",
+        "corporateRating": 4
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo131",
+    "name": "Sayahna Old Age Trust",
+    "category": [
+      "Elderly Care"
+    ],
+    "location": {
+      "state": "Karnataka",
+      "city": "Bengaluru"
+    },
+    "yearsOfOperation": 10,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": false,
+      "isFCRA": true,
+      "registrationNumber": "KA/ELD/2643"
+    },
+    "projectBudgetRange": {
+      "min": 100000,
+      "max": 3900000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": false,
+      "lastAuditYear": 0
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Elderly Care Program Phase 1",
+        "category": "Elderly Care",
+        "budget": 1900000,
+        "year": 2021,
+        "completionStatus": "completed",
+        "beneficiariesReached": 6809,
+        "corporatePartner": "Skyline Group",
+        "corporateRating": 3
+      },
+      {
+        "name": "Elderly Care Program Phase 2",
+        "category": "Elderly Care",
+        "budget": 400000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 6215,
+        "corporatePartner": "Orion Logistics",
+        "corporateRating": 2
+      },
+      {
+        "name": "Elderly Care Program Phase 3",
+        "category": "Elderly Care",
+        "budget": 800000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 13135,
+        "corporatePartner": "TechCorp Ltd",
+        "corporateRating": 5
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo132",
+    "name": "Prani Raksha Trust",
+    "category": [
+      "Animal Welfare"
+    ],
+    "location": {
+      "state": "Karnataka",
+      "city": "Mysuru"
+    },
+    "yearsOfOperation": 13,
+    "registrationDetails": {
+      "is12A": false,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "KA/ANI/7846"
+    },
+    "projectBudgetRange": {
+      "min": 200000,
+      "max": 3300000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2023
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": "#"
+    },
+    "pastProjects": [
+      {
+        "name": "Animal Welfare Program Phase 1",
+        "category": "Animal Welfare",
+        "budget": 2000000,
+        "year": 2022,
+        "completionStatus": "completed",
+        "beneficiariesReached": 17165,
+        "corporatePartner": "FinBank",
+        "corporateRating": 2
+      },
+      {
+        "name": "Animal Welfare Program Phase 2",
+        "category": "Animal Welfare",
+        "budget": 2100000,
+        "year": 2025,
+        "completionStatus": "completed",
+        "beneficiariesReached": 9485,
+        "corporatePartner": "Skyline Group",
+        "corporateRating": 3
+      },
+      {
+        "name": "Animal Welfare Program Phase 3",
+        "category": "Animal Welfare",
+        "budget": 600000,
+        "year": 2023,
+        "completionStatus": "completed",
+        "beneficiariesReached": 21156,
+        "corporatePartner": "Zenith Retail",
+        "corporateRating": 4
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo133",
+    "name": "Karuna Animal Shelter Society",
+    "category": [
+      "Animal Welfare"
+    ],
+    "location": {
+      "state": "Delhi",
+      "city": "New Delhi"
+    },
+    "yearsOfOperation": 21,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "DE/ANI/5608"
+    },
+    "projectBudgetRange": {
+      "min": 300000,
+      "max": 3700000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2024
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Animal Welfare Program Phase 1",
+        "category": "Animal Welfare",
+        "budget": 500000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 9973,
+        "corporatePartner": "GreenTech Ltd",
+        "corporateRating": 4
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  },
+  {
+    "id": "ngo134",
+    "name": "Jeev Daya Foundation",
+    "category": [
+      "Animal Welfare"
+    ],
+    "location": {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow"
+    },
+    "yearsOfOperation": 14,
+    "registrationDetails": {
+      "is12A": true,
+      "is80G": true,
+      "isFCRA": false,
+      "registrationNumber": "UT/ANI/5202"
+    },
+    "projectBudgetRange": {
+      "min": 500000,
+      "max": 2600000
+    },
+    "financialTransparency": {
+      "hasAuditedReports": true,
+      "lastAuditYear": 2025
+    },
+    "documents": {
+      "annualReportUrl": "#",
+      "impactReportUrl": ""
+    },
+    "pastProjects": [
+      {
+        "name": "Animal Welfare Program Phase 1",
+        "category": "Animal Welfare",
+        "budget": 1400000,
+        "year": 2026,
+        "completionStatus": "completed",
+        "beneficiariesReached": 12144,
+        "corporatePartner": "PharmaPlus",
+        "corporateRating": 5
+      },
+      {
+        "name": "Animal Welfare Program Phase 2",
+        "category": "Animal Welfare",
+        "budget": 2900000,
+        "year": 2024,
+        "completionStatus": "ongoing",
+        "beneficiariesReached": 7693,
+        "corporatePartner": "PharmaPlus",
+        "corporateRating": 2
+      }
+    ],
+    "geotaggedPhotos": [],
+    "experienceStories": []
+  }
+]
