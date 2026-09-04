@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ngo001",
+    "name": "Vidya Foundation",
+    "category": ["Education", "Skill Development"],
+    "location": { "state": "Tamil Nadu", "city": "Chennai" },
+    "yearsOfOperation": 14,
+    "registrationDetails": { "is12A": true, "is80G": true, "isFCRA": true, "registrationNumber": "TN/EDU/1042" },
+    "projectBudgetRange": { "min": 500000, "max": 5000000 },
+    "financialTransparency": { "hasAuditedReports": true, "lastAuditYear": 2025 },
+    "documents": { "annualReportUrl": "#", "impactReportUrl": "#" },
+    "pastProjects": [
+      { "name": "Digital Classrooms Initiative", "category": "Education", "budget": 1200000, "year": 2024, "completionStatus": "completed", "beneficiariesReached": 15000, "corporatePartner": "TechCorp Ltd", "corporateRating": 5 },
+      { "name": "Girls STEM Scholarship", "category": "Education", "budget": 800000, "year": 2023, "completionStatus": "completed", "beneficiariesReached": 3000, "corporatePartner": "FinBank", "corporateRating": 5 },
+      { "name": "Vocational Training Hub", "category": "Skill Development", "budget": 950000, "year": 2022, "completionStatus": "completed", "beneficiariesReached": 4200, "corporatePartner": "AutoWorks Inc", "corporateRating": 4 }
+    ]
+  },
+  {
+    "id": "ngo002",
+    "name": "CareWell Health Trust",
+    "category": ["Healthcare"],
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "yearsOfOperation": 20,
+    "registrationDetails": { "is12A": true, "is80G": true, "isFCRA": true, "registrationNumber": "MH/HLT/0221" },
+    "projectBudgetRange": { "min": 1000000, "max": 10000000 },
+    "financialTransparency": { "hasAuditedReports": true, "lastAuditYear": 2026 },
+    "documents": { "annualReportUrl": "#", "impactReportUrl": "#" },
+    "pastProjects": [
+      { "name": "Rural Mobile Clinics", "category": "Healthcare", "budget": 3000000, "year": 2025, "completionStatus": "completed", "beneficiariesReached": 42000, "corporatePartner": "PharmaPlus", "corporateRating": 5 },
+      { "name": "Maternal Health Program", "category": "Healthcare", "budget": 2200000, "year": 2024, "completionStatus": "completed", "beneficiariesReached": 18000, "corporatePartner": "Unity Insurance", "corporateRating": 5 },
+      { "name": "TB Awareness Drive", "category": "Healthcare", "budget": 900000, "year": 2023, "completionStatus": "completed", "beneficiariesReached": 25000, "corporatePartner": "MedLife Corp", "corporateRating": 4 }
+    ]
+  },
+  {
+    "id": "ngo003",
+    "name": "Green Roots Collective",
+    "category": ["Environment"],
+    "location": { "state": "Karnataka", "city": "Bengaluru" },
+    "yearsOfOperation": 6,
+    "registrationDetails": { "is12A": true, "is80G": true, "isFCRA": false, "registrationNumber": "KA/ENV/3391" },
+    "projectBudgetRange": { "min": 200000, "max": 2000000 },
+    "financialTransparency": { "hasAuditedReports": true, "lastAuditYear": 2024 },
+    "documents": { "annualReportUrl": "#", "impactReportUrl": "#" },
+    "pastProjects": [
+      { "name": "Urban Afforestation Drive", "category": "Environment", "budget": 600000, "year": 2024, "completionStatus": "completed", "beneficiariesReached": 8000, "corporatePartner": "GreenTech Ltd", "corporateRating": 4 },
+      { "name": "Lake Rejuvenation Project", "category": "Environment", "budget": 1100000, "year": 2023, "completionStatus": "ongoing", "beneficiariesReached": 12000, "corporatePartner": "CivicBuild", "corporateRating": 4 }
+    ]
+  },
+  {
+    "id": "ngo004",
+    "name": "Nari Shakti Sangathan",
+    "category": ["Women Empowerment", "Skill Development"],
+    "location": { "state": "Rajasthan", "city": "Jaipur" },
+    "yearsOfOperation": 9,
+    "registrationDetails": { "is12A": true, "is80G": false, "isFCRA": false, "registrationNumber": "RJ/WOM/1187" },
+    "projectBudgetRange": { "min": 300000, "max": 1500000 },
+    "financialTransparency": { "hasAuditedReports": true, "lastAuditYear": 2023 },
+    "documents": { "annualReportUrl": "#", "impactReportUrl": "" },
+    "pastProjects": [
+      { "name": "Women Handicraft Cooperative", "category": "Women Empowerment", "budget": 500000, "year": 2024, "completionStatus": "completed", "beneficiariesReached": 2200, "corporatePartner": "TextileHouse", "corporateRating": 4 },
+      { "name": "Microfinance Literacy Camp", "category": "Skill Development", "budget": 400000, "year": 2022, "completionStatus": "completed", "beneficiariesReached": 1800, "corporatePartner": "Regional Bank", "corporateRating": 3 }
+    ]
+  },
+  {
+    "id": "ngo005",
+    "name": "Chhaya Child Welfare Society",
+    "category": ["Child Welfare", "Education"],
+    "location": { "state": "Delhi", "city": "New Delhi" },
+    "yearsOfOperation": 11,
+    "registrationDetails": { "is12A": true, "is80G": true, "isFCRA": true, "registrationNumber": "DL/CHW/0876" },
+    "projectBudgetRange": { "min": 400000, "max": 3000000 },
+    "financialTransparency": { "hasAuditedReports": true, "lastAuditYear": 2025 },
+    "documents": { "annualReportUrl": "#", "impactReportUrl": "#" },
+    "pastProjects": [
+      { "name": "Street Children Rehabilitation", "category": "Child Welfare", "budget": 1000000, "year": 2025, "completionStatus": "completed", "beneficiariesReached": 3200, "corporatePartner": "Skyline Group", "corporateRating": 5 },
+      { "name": "After-School Learning Centers", "category": "Education", "budget": 750000, "year": 2023, "completionStatus": "completed", "beneficiariesReached": 5000, "corporatePartner": "Skyline Group", "corporateRating": 4 }
+    ]
+  },
+  {
+    "id": "ngo006",
+    "name": "Sahara Disaster Response Network",
+    "category": ["Disaster Relief"],
+    "location": { "state": "Odisha", "city": "Bhubaneswar" },
+    "yearsOfOperation": 5,
+    "registrationDetails": { "is12A": true, "is80G": false, "isFCRA": false, "registrationNumber": "OD/DIS/2290" },
+    "projectBudgetRange": { "min": 200000, "max": 4000000 },
+    "financialTransparency": { "hasAuditedReports": false, "lastAuditYear": 0 },
+    "documents": { "annualReportUrl": "", "impactReportUrl": "" },
+    "pastProjects": [
+      { "name": "Cyclone Fani Relief Camp", "category": "Disaster Relief", "budget": 2000000, "year": 2023, "completionStatus": "completed", "beneficiariesReached": 20000, "corporatePartner": "RelianceAid", "corporateRating": 3 },
+      { "name": "Flood Emergency Kits Distribution", "category": "Disaster Relief", "budget": 500000, "year": 2022, "completionStatus": "failed", "beneficiariesReached": 500, "corporatePartner": "LocalCorp", "corporateRating": 2 }
+    ]
+  },
+  {
+    "id": "ngo007",
+    "name": "Paws & Care Animal Trust",
+    "category": ["Animal Welfare"],
+    "location": { "state": "West Bengal", "city": "Kolkata" },
+    "yearsOfOperation": 3,
+    "registrationDetails": { "is12A": false, "is80G": false, "isFCRA": false, "registrationNumber": "WB/ANM/4410" },
+    "projectBudgetRange": { "min": 100000, "max": 800000 },
+    "financialTransparency": { "hasAuditedReports": false, "lastAuditYear": 0 },
+    "documents": { "annualReportUrl": "", "impactReportUrl": "" },
+    "pastProjects": [
+      { "name": "Stray Animal Sterilization Drive", "category": "Animal Welfare", "budget": 250000, "year": 2024, "completionStatus": "completed", "beneficiariesReached": 900, "corporatePartner": "PetCo", "corporateRating": 3 }
+    ]
+  },
+  {
+    "id": "ngo008",
+    "name": "Sunrise Elders Care Foundation",
+    "category": ["Elderly Care"],
+    "location": { "state": "Kerala", "city": "Kochi" },
+    "yearsOfOperation": 8,
+    "registrationDetails": { "is12A": true, "is80G": true, "isFCRA": false, "registrationNumber": "KL/ELD/0654" },
+    "projectBudgetRange": { "min": 200000, "max": 1200000 },
+    "financialTransparency": { "hasAuditedReports": true, "lastAuditYear": 2024 },
+    "documents": { "annualReportUrl": "#", "impactReportUrl": "#" },
+    "pastProjects": [
+      { "name": "Old Age Home Renovation", "category": "Elderly Care", "budget": 600000, "year": 2024, "completionStatus": "completed", "beneficiariesReached": 400, "corporatePartner": "Coastal Bank", "corporateRating": 4 },
+      { "name": "Elderly Health Checkup Camps", "category": "Elderly Care", "budget": 300000, "year": 2023, "completionStatus": "completed", "beneficiariesReached": 2100, "corporatePartner": "Coastal Bank", "corporateRating": 5 }
+    ]
+  }
+]

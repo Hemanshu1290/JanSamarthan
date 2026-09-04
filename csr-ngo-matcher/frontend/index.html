@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CSR-NGO Match | Connect. Verify. Impact.</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar">
+    <div class="nav-container">
+      <div class="logo">
+        <span class="logo-icon">🤝</span>
+        <span class="logo-text">CSR<span class="accent">Match</span></span>
+      </div>
+      <div class="nav-links">
+        <a href="#match">Find a Match</a>
+        <a href="#directory">NGO Directory</a>
+        <a href="#register">Register NGO</a>
+        <a href="#how-it-works">How it Works</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <header class="hero">
+    <div class="hero-content">
+      <span class="hero-badge">Trust-Verified CSR Matching</span>
+      <h1>Connect your CSR budget<br> to NGOs that <span class="highlight">actually deliver</span></h1>
+      <p class="hero-sub">We don't just match category and location — every NGO is scored on real track record, compliance, transparency, and past corporate feedback before it ever reaches your shortlist.</p>
+      <div class="hero-actions">
+        <a href="#match" class="btn btn-primary">Find Matching NGOs</a>
+        <a href="#directory" class="btn btn-ghost">Browse Directory</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><strong id="statNgoCount">-</strong><span>Verified NGOs</span></div>
+        <div class="stat"><strong>6</strong><span>Trust Score Factors</span></div>
+        <div class="stat"><strong>100%</strong><span>Transparent Scoring</span></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- MATCH SECTION -->
+  <section id="match" class="section">
+    <div class="section-header">
+      <h2>Find Your Match</h2>
+      <p>Tell us what your CSR program needs — we'll rank NGOs by fit + trust.</p>
+    </div>
+
+    <form id="matchForm" class="card form-card">
+      <div class="form-grid">
+        <div class="form-group">
+          <label>Focus Area *</label>
+          <select id="reqCategory" required>
+            <option value="">Select category</option>
+            <option>Education</option>
+            <option>Healthcare</option>
+            <option>Environment</option>
+            <option>Women Empowerment</option>
+            <option>Child Welfare</option>
+            <option>Skill Development</option>
+            <option>Disaster Relief</option>
+            <option>Elderly Care</option>
+            <option>Animal Welfare</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label>Preferred State</label>
+          <input type="text" id="reqState" placeholder="e.g. Tamil Nadu" />
+        </div>
+
+        <div class="form-group">
+          <label>Preferred City</label>
+          <input type="text" id="reqCity" placeholder="e.g. Chennai" />
+        </div>
+
+        <div class="form-group">
+          <label>CSR Budget (₹)</label>
+          <input type="number" id="reqBudget" placeholder="e.g. 1000000" />
+        </div>
+
+        <div class="form-group">
+          <label>Minimum Trust Band</label>
+          <select id="reqMinTrust">
+            <option value="">No minimum</option>
+            <option value="Medium">Medium & above</option>
+            <option value="High">High only</option>
+          </select>
+        </div>
+      </div>
+
+      <button type="submit" class="btn btn-primary btn-full">Match Me With NGOs</button>
+    </form>
+
+    <div id="matchResults" class="results-grid"></div>
+  </section>
+
+  <!-- DIRECTORY -->
+  <section id="directory" class="section section-alt">
+    <div class="section-header">
+      <h2>NGO Directory</h2>
+      <p>Every NGO's live trust score, calculated the same transparent way.</p>
+    </div>
+    <div id="directoryGrid" class="results-grid"></div>
+  </section>
+
+  <!-- REGISTER -->
+  <section id="register" class="section">
+    <div class="section-header">
+      <h2>Register an NGO</h2>
+      <p>Add your organization's profile so corporates can discover and verify you.</p>
+    </div>
+
+    <form id="registerForm" class="card form-card">
+      <div class="form-grid">
+        <div class="form-group">
+          <label>NGO Name *</label>
+          <input type="text" id="regName" required placeholder="e.g. Hope Foundation" />
+        </div>
+        <div class="form-group">
+          <label>Focus Areas * (comma separated)</label>
+          <input type="text" id="regCategory" required placeholder="Education, Skill Development" />
+        </div>
+        <div class="form-group">
+          <label>State</label>
+          <input type="text" id="regState" placeholder="e.g. Tamil Nadu" />
+        </div>
+        <div class="form-group">
+          <label>City</label>
+          <input type="text" id="regCity" placeholder="e.g. Chennai" />
+        </div>
+        <div class="form-group">
+          <label>Years of Operation</label>
+          <input type="number" id="regYears" placeholder="e.g. 5" />
+        </div>
+        <div class="form-group">
+          <label>Typical Project Budget Range (₹)</label>
+          <div class="range-inputs">
+            <input type="number" id="regBudgetMin" placeholder="Min" />
+            <input type="number" id="regBudgetMax" placeholder="Max" />
+          </div>
+        </div>
+      </div>
+
+      <div class="checkbox-row">
+        <label><input type="checkbox" id="reg12A" /> 12A Registered</label>
+        <label><input type="checkbox" id="reg80G" /> 80G Registered</label>
+        <label><input type="checkbox" id="regFCRA" /> FCRA Registered</label>
+        <label><input type="checkbox" id="regAudited" /> Has Audited Financial Reports</label>
+      </div>
+
+      <button type="submit" class="btn btn-primary btn-full">Register NGO</button>
+    </form>
+    <div id="registerFeedback"></div>
+  </section>
+
+  <!-- HOW IT WORKS -->
+  <section id="how-it-works" class="section section-alt">
+    <div class="section-header">
+      <h2>How the Trust Score Works</h2>
+      <p>Six weighted factors combine into a single 0–100 score.</p>
+    </div>
+    <div class="trust-factors-grid">
+      <div class="factor-card"><span class="factor-weight">25</span><h4>Legal Compliance</h4><p>12A, 80G, FCRA registration status.</p></div>
+      <div class="factor-card"><span class="factor-weight">15</span><h4>Years of Operation</h4><p>Longevity signals institutional stability.</p></div>
+      <div class="factor-card"><span class="factor-weight">25</span><h4>Project Track Record</h4><p>Completion rate, weighted by activity risk category.</p></div>
+      <div class="factor-card"><span class="factor-weight">15</span><h4>Financial Transparency</h4><p>Audited reports and how recent they are.</p></div>
+      <div class="factor-card"><span class="factor-weight">10</span><h4>Impact Documentation</h4><p>Published impact reports & beneficiaries reached.</p></div>
+      <div class="factor-card"><span class="factor-weight">10</span><h4>Corporate Feedback</h4><p>Average rating from past CSR partners.</p></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>CSRMatch — Connecting Corporates to Verified NGOs.</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
